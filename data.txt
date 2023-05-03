@@ -1,0 +1,33 @@
+Chapter One: Introduction
+Topics of Discussion and Structure of the Paper
+Since its inception, bitcoin, a virtual currency, has grown in both its popularity and its
+use. Despite this, there still exists a relative dearth of economic analysis in academia about this
+new economic phenomenon. Various topics have been researched with regard to bitcoin,
+including its economic status as a currency (Yermack 2013), the incentives of bitcoin miners
+(Kroll et al 2013), the economics of bitcoin exchange prices (Ciaian et al 2014), among others.
+Macroeconomist Paul Krugman weighed in strongly on the normative side of the economic
+debate with his article “Bitcoin is Evil” published in late 2013.
+The object of this paper is to investigate a yet unexplored topic in bitcoin, purchasing
+power parity, and utilize a different approach to the topic explored by Kroll et al, the economics
+of bitcoin mining. Therefore, the structure of the paper will be as follows. The remainder of
+chapter one will provide a brief history of bitcoin and an explanation of how bitcoin operates.
+Chapter two, entitled “Purchasing Power Parity in the Bitcoin Exchange Market” will analyze
+bitcoin from the perspective of purchasing power parity across three different currency exchange
+markets in which bitcoin trades. Chapter three, entitled “An Economic Analysis of Bitcoin
+Mining,” analyzes bitcoin from the perspective of the users that verify bitcoin transactions.
+Chapter four concludes. Note that there are separate appendices at the end of chapters two and
+three. All references are listed at the end.
+The History of Bitcoin
+Bitcoin (sometimes known by its generally accepted ticker BTC) is an online payment
+system launched as on open source software in 2009. Its creator (or creators), whose identity to 
+2
+this day remains unknown, goes by the name Satoshi Nakamoto. Nakamoto published a paper
+describing his or her creation entitled “Bitcoin: A Peer-to-Peer Electronic Cash System” in 2008.
+In many ways it functions as a currency, whereby one party can send a unit of currency
+(in this case a string of code) to another party in exchange for a good or service. As such, bitcoin
+is often referred to as a “virtual currency” or “cryptocurrency.” All transfers of bitcoin are
+verified and then recorded on a public ledger known as the block chain (Velde 2013).
+Potential users can purchase bitcoin by using an online exchange. These exchanges act
+as either brokers or dealers in allowing users to convert a major currency such as the U.S. dollar
+into bitcoins. The first of these exchanges, Bitcoin Market, open in February 2010. Another
+exchange, MtGox, first launched in July of that same year.
