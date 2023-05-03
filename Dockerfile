@@ -16,10 +16,13 @@ RUN apt-get update && apt-get install -y \
 
 RUN conda create -n chatenv python=3.9
 RUN apt-get update && apt-get install -y cmake
+RUN mkdir /app
 WORKDIR /app
+
 COPY [ "*", "./" ]
 RUN /bin/bash -c "source activate chatenv && pip install -r requirements.txt"
 
+COPY . .
 
 
 CMD ["conda","run","--no-capture-output","-n","chatenv","uvicorn","main_api:app","--host","0.0.0.0","--port","8020"]
