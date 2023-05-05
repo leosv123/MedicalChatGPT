@@ -1,4 +1,4 @@
-# MedRhoChat #DEMO
+# MedicalChat #DEMO
 ChatMedicalResearch
 
 Using Pinecone Embeddings Customizing and Leveraging LLMs
