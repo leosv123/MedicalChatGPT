@@ -16,7 +16,7 @@ from langchain.vectorstores import Chroma
 import re
 
 
-os.environ['OPENAI_API_KEY'] = "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"
+os.environ['OPENAI_API_KEY'] = ""
 
 
 def run_query(query, mode):
